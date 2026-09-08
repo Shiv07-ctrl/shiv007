@@ -44,20 +44,8 @@ I'm currently building my fundamentals throuWhat tgh projects, coding practice, 
 
 ```text
 Data Science
-    ├── Data Analysis
-    ├── Data Visualization
-    └── Statistics
-
 Machine Learning
-    ├── Supervised Learning
-    ├── Model Evaluation
-    └── ML Projects
-
 Automotive & Mobility
-    ├── Electric Vehicles
-    ├── Vehicle Data
-    ├── Battery Technology
-    └── Automotive Applications of ML
 ```
 
 ---
@@ -82,19 +70,6 @@ Participating in hackathons to gain experience in **problem solving, teamwork, r
 
 ---
 
-## 📌 Featured Projects
-
-I'm currently building my project portfolio around **Data Science, Machine Learning, and Automotive/EV applications**.
-
-| Project                  | Area                      | Status      |
-| ------------------------ | ------------------------- | ----------- |
-| 🚗 EV Data Analysis      | Data Science / Automotive | 🔨 Building |
-| 📊 Vehicle Data Explorer | Data Analysis             | 📋 Planned  |
-| 🤖 ML Beginner Project   | Machine Learning          | 📋 Planned  |
-| 💻 DSA in C              | Programming / DSA         | 🔨 Learning |
-
----
-
 ## 📈 My Goals
 
 * Build strong foundations in **Data Science & ML**
@@ -103,15 +78,4 @@ I'm currently building my project portfolio around **Data Science, Machine Learn
 * Improve **DSA and programming fundamentals**
 * Participate in more hackathons
 * Prepare for internships in **Data Science, ML, and Automotive Technology**
-
 ---
-
-## 🤝 Let's Connect
-
-I'm always interested in connecting with students, developers, and people working in **Data Science, Machine Learning, Automotive, and EV technologies**.
-
-📫 Feel free to reach out through GitHub.
-
----
-
-⭐ *Learning, building, and improving one project at a time.*
