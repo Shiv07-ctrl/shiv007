@@ -64,7 +64,9 @@ Participating in hackathons to gain experience in **problem solving, teamwork, r
 ## 📜 Certifications & Courses
 
 * Electric Vehicles — Coursera
-* YES+ — [Add issuing organization/details]
+* YES+
+* Web Development Fundamentals: HTML, CSS, and JavaScript
+* Prompt Engineering for ChatGPT
 
 > More certifications and projects will be added as I continue learning.
 
